@@ -26,9 +26,9 @@ public class Apart {
         System.out.println("Apartment "+x+" has "+bedroom+" bedroom");
     }
     public static void main(String[] args) {
-        Apart a1=new Apart(2,1,1,1,1,0);
+        Apart a1=new Apart(2,1,1,1,1,1);
         Apart a2=new Apart(3,2,1,1,1,0);
-        Apart a3=new Apart(4,3,1,1,1,0);
+        Apart a3=new Apart(4,3,1,1,1,1);
         a1.display(1);
         a2.display(2);
         a3.display(3);
