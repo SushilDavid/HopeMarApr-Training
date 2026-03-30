@@ -1,4 +1,4 @@
-package LeetCode.Day5;
+package Day5;
 
 public class StringExample {
     public static void main(String[] args) {

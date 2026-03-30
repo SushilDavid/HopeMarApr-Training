@@ -1,4 +1,4 @@
-package LeetCode.Day8;
+package Day8;
 
 public class Bank {
     

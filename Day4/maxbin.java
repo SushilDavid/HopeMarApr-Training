@@ -1,4 +1,4 @@
-package LeetCode.Day4;
+package Day4;
 
 public class maxbin {
     class Solution {
