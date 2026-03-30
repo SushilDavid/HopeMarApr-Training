@@ -7,5 +7,13 @@ public class Encap {
     public static void main(String[] args) {
         Encap e=new Encap();
         e.display();
+        Bank b=new Bank();
+        b.display();
+        
+    }
+}
+class Bank{
+    void display(){
+        System.out.println("Hello");
     }
 }
