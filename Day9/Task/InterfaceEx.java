@@ -1,6 +1,15 @@
 package Day9;
 
     
+
+public class InterfaceEx {
+    public static void main(String[] args) {
+        D d=new D();
+        d.displayA();
+        d.display();
+    }
+    
+}
 class A{
     void display(){
         System.out.println("I am in class A");
@@ -19,13 +28,5 @@ class D extends A implements B,C{
     public void displayA(){
         super.display();
     }
-}
-public class InterfaceEx {
-    public static void main(String[] args) {
-        D d=new D();
-        d.displayA();
-        d.display();
-    }
-    
 }
 
