@@ -1,4 +1,4 @@
-package Day10;
+package Day10.Tasks;
 
 public class ExceptionHandling {
     public static void main(String[] args) {
